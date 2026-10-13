@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\bin\Debug\b1B5.exe.config
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\bin\Debug\b1B5.exe
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\bin\Debug\b1B5.pdb
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\obj\Debug\b1B5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\obj\Debug\b1B5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\obj\Debug\b1B5.exe
+C:\Users\ADMIN\source\repos\b1.tl\b1B5\obj\Debug\b1B5.pdb
